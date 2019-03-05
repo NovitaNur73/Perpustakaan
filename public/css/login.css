@@ -1,0 +1,13 @@
+@media ( max-width: 767.98px){
+  form{
+      margin:768px auto;
+      border: gray 2px solid;
+      background-color: rgba(1, 9, 3, 0.81);
+      color: red;
+      padding: 10px 15px;
+      width: 350px;
+      height: 350px;
+      border-top: black 5px solid;
+      box-shadow: 3px 3px 15px black;
+  }
+}
